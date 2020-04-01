@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Olatunji Rokeeb</string>
+    <string name="yellow_star">yellow star</string>
+
+    <string name="bio">My name is OLATUNJI Rokeeb Olanrewaju\n\n
+        A part four student of computer science and engineering department\n
+        Obafemi Awolowo University.\n
+        I’m an aspiring software developer (mobile app).\n
+        I would like the opportunity to intern at your firm during my 6month Industrial Training period (September 2019 – February 2020).\n
+        I believe its the best place to utilize my current software skills and knowledge, and also help me to further develop these skills in a practical and fast-paced environment.\n
+        I’m a motivated, dedicated, loyal and ambitious person who can work as a team player under little or no supervision. I always strive to improve myself and I believe I would be able to tackle any challenges I may encounter during this internship.
+        I look forward to a positive response from you.\n\n
+        Madison Blackstone is a director of brand marketing, with experience managing global teams and multi-million-dollar campaigns.\n
+        Her background in brand strategy, visual design, and account management inform her mindful but competitive approach.\n
+        Madison is fueled by her passion for understanding the nuances of cross-cultural advertising.\n
+        She considers herself a ‘forever student,’ eager to both build on her academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework.\n
+        Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group, where she led international, award-winning campaigns.\n\n
+        Thanks.</string>
+
+</resources>
