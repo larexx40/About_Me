@@ -17,5 +17,7 @@
         She considers herself a ‘forever student,’ eager to both build on her academic foundations in psychology and sociology and stay in tune with the latest digital marketing strategies through continued coursework.\n
         Her hunger for knowledge and determination to turn information into action has contributed to her most recent success at Rockwell Group, where she led international, award-winning campaigns.\n\n
         Thanks.</string>
+    <string name="nickname_hint">What is your nickname</string>
+    <string name="password_hint">Password</string>
 
 </resources>
